@@ -348,6 +348,17 @@ footer{
     gap: 10px;
   }
 
+  nav{
+    gap:15px;
+    padding:18px 10px;
+    flex-wrap:wrap;
+  }
+
+  nav a{
+    font-size:16px;
+  }
+
+
   /* Autorentext */
   .author-text {
     font-size: 16px;
