@@ -331,7 +331,7 @@ footer{
   }
 
   nav a{
-    font-size:16px;
+    font-size:40px;
   }
 
 
@@ -366,7 +366,7 @@ footer{
   }
 
   nav a{
-    font-size:16px;
+    font-size:40px;
   }
 
 
@@ -397,4 +397,15 @@ footer{
     font-size: 15px;
     line-height: 1.6;
   }
+
+  nav{
+    gap:15px;
+    padding:18px 10px;
+    flex-wrap:wrap;
+  }
+
+  nav a{
+    font-size:40px;
+  }
+
 }
