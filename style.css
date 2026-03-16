@@ -360,13 +360,13 @@ footer{
   }
 
   nav{
-    gap:15px;
-    padding:18px 10px;
+    gap:20px;
+    padding:20px 12px;
     flex-wrap:wrap;
   }
 
   nav a{
-    font-size:40px;
+    font-size:30px;
   }
 
 
